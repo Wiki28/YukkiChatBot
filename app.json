@@ -49,7 +49,7 @@
         "required": true,
         "value": ""
       },
-      "SUDO_USER": {
+      "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a SUDO_USER, Multiple values shall be seperated with a space.",
         "required": true,
         "value": ""
